@@ -1,50 +1,32 @@
 ---
-name: Nova vaga
+name: Desenvolvedor Full stack
 about: Informações da vaga
-title: '[São Paulo/SP | Santos/SP | Remoto] Front-end Vue.js Developer @ {Empresa}'
+title: '[Curitiba/PR |Curitiba/PR] Front-end Vue.js  Desenvolvedor Full stack @ {GO ON ASSOCIATED}'
 labels: ''
 assignees: ''
 ---
 
-<!-- POR FAVOR, SÓ POSTE SE A VAGA FOR PARA TRABALHAR COM VUE.JS OU TECNOLOGIAS DO ECOSSISTEMA! -->
 
 ## Descrição da vaga
 
-Projeto bacana com Vue.js, etc..
+Desenvolvedor Full Stack
 
 ## Local
 
-Remoto ou Escritório, São Paulo/SP - Vila Madalena
+Remoto durante a pandemia, pós-pandemia no Escritório, Curitiba/PR - Água Verde
 
-## Benefícios
-
-- Plano de saúde
-- Seguro de vida
-- VR de R$ X/dia
-- Auxílio creche
-- ...
-
-#### Diferenciais
-
-- 2 horas de almoço
-- Monte a sua máquina como desejar
-- Frigobar sempre cheio :P
-- Sala de jogos
-- ...
 
 ## Requisitos
 
 **Obrigatórios:**
-- 3 anos de experiência com desenvolvimento JavaScript
-- 2 anos de experiência com desenvolvimento Vue.js
-- 1 ano de experiência com desenvolvimento Nuxt.js
+Sólida experiencia com JavaScript, HTML, CSS.   
+Experiencia em pelo menos um framework atual, como Angular, Ember, React.
+Experiencia em modelagem e arquitetura front-end, integrações utilizando API REST.
+Experiencia em controle de versão preferencialmente Git e o uso do GitHub
+Conhecimentos em react/Vue, Flux, Bundlers e tranpilers.
+Experiencia com desenvolvimento Java, Android 
+Ambiente AWS, Google Cloud
 
-**Desejáveis:**
-- Cnhecimentos em Vuex
-- Conhecimentos em GraphQL
-
-**Diferenciais:**
-- Projetos open-source
 
 ## Contratação
 
@@ -52,37 +34,23 @@ PJ a combinar.
 
 ## Nossa empresa
 
-Aqui na Corporação XPTO somos líderes em...
+A Go On Associated oferece softwares de gestão empresarial e soluções tecnológicas diferenciadas para os setores de Construção, Manufatura, Combustíveis, Agronegócios e Serviços.
 
-**Aqui usamos:**
-- Vue.js
-- PHP
-- C#
-- AWS
-- ...
 
 ## Como se candidatar
 
-Por favor, envie um e-mail para email@empresa.com.br com seu CV anexado. Enviar no assunto: _Vaga Vue.js_
+Por favor, envie um e-mail para vagas@egocn.com.br com seu CV anexado. Enviar no assunto: Vaga desenvolvedor Full Stack
 
 ## Labels
-<!-- retire os labels que não fazem sentido à vaga -->
 
 #### Alocação
 - Flexível
-- Presencial
-- Remoto
 
 #### Experiência
-- Estágio
 - Júnior
 - Pleno
 - Sênior
 
 #### Regime
-- A-Combinar
-- CLT
-- Estágio
-- Freela
-- Outros
+
 - PJ
