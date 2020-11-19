@@ -1,6 +1,6 @@
----
-name: Nova vaga
-about: Informações da vaga
+
+name:Desenvolvedor Full Stack
+about:
 title: '[São Paulo/SP | Santos/SP | Remoto] Front-end Vue.js Developer @ {Empresa}'
 labels: ''
 assignees: ''
